@@ -1,0 +1,21 @@
+Things I need to do for this project 
+
+1. Must be atleast two levels deep. 
+2. Must use a scrapper or an API
+3. Get the information from the API and send save it into objects. 
+
+Steps on how to achieve this. 
+
+1. Pick an API ( Urban Dictionary API ).
+2. Make sure we're able to obtain all the information we need from said API to build our APP.
+3. Start thinking about the flow of your project.
+
+
+
+
+#flow of project 
+1. I wanna welcome the user to UrbanDictionary. X 
+2. Ask the User what specific term they would like for me to look up? X
+3. I will then get the information from the API, Save it so I can use it later and then Display all of the definitions? and examples? Maybe?X
+4. I will then allow the user to choose which definition best associates with their needs and it can then tell them more information about that term.
+5. Just for fun, we're going to have a history of all the terms this user has searched during this time. 
